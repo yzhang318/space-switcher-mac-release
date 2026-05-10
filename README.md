@@ -10,7 +10,7 @@ A macOS menu-bar app that switches Spaces and remaps a mouse button + swipe gest
 
 Clone or download this repository, then double-click **SpaceSwitcher.app** to launch.
 
-> **macOS may show "unidentified developer" the first time.**  
+> **macOS may show "unidentified developer" the first time.**
 > Right-click (or Control-click) → **Open**, then click **Open** in the dialog.
 
 ---
